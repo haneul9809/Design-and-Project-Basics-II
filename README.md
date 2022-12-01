@@ -118,6 +118,16 @@
     
     - 가로, 세로 11cm, 높이 1.5의 정사각형 받침대를 만들고 Extrude 기능으로 1cm 무드등을 끼울 구멍을 뚫음
     
+- 시연 영상    
+    
+
+https://user-images.githubusercontent.com/67767912/204968178-fd8a3005-1a5e-4b21-927b-9265103f3e0f.mp4
+
+
+
+https://user-images.githubusercontent.com/67767912/204968186-1c2902ed-b5c4-49c8-ba5d-5a28f2dddcd2.mp4
+
+
 - 현실적 제한 조건
     
     <img width="520" alt="스크린샷 2022-12-01 오후 1 45 36" src="https://user-images.githubusercontent.com/67767912/204967817-8581df80-caf8-4cea-b34c-29aab79e8697.png">
