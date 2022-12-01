@@ -105,7 +105,9 @@
 
     
     - 무드등 호출 후 test 실행 화면
+    
 6. 외형 3D 디자인
+
     <img width="390" alt="스크린샷 2022-12-01 오후 1 45 06" src="https://user-images.githubusercontent.com/67767912/204967764-5638f6c6-3a04-42ec-ada2-d6abcd01a2f5.png">
 
     
@@ -115,6 +117,7 @@
 
     
     - 가로, 세로 11cm, 높이 1.5의 정사각형 받침대를 만들고 Extrude 기능으로 1cm 무드등을 끼울 구멍을 뚫음
+    
 - 현실적 제한 조건
     
     <img width="520" alt="스크린샷 2022-12-01 오후 1 45 36" src="https://user-images.githubusercontent.com/67767912/204967817-8581df80-caf8-4cea-b34c-29aab79e8697.png">
