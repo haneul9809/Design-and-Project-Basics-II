@@ -5,7 +5,7 @@
 https://konyang-my.sharepoint.com/:t:/g/personal/19615050_konyang_ac_kr/EXzeeZ4achpBmrvNdJcFvMABb_qxwkKajpy8nzoDk6-QwA?e=Ceca7W
 ## 🗓️ 개발 기간
 
-2020/9/4 ~ 2020/11/11
+2020/9/4 ~ 2020/12/11
 
 ## ⚙️ 기술 스택
 
